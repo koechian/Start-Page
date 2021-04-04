@@ -154,5 +154,6 @@ h3 {
     background: none;
 
     font-size: 12pt;
+    font-style: italic;
     color: var(--color-primary);
 }
