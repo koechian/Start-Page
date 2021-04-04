@@ -145,7 +145,7 @@ h3 {
 }
 
 #searchbar{
-    height:32px;
+    height:34px;
     border: none;
     width:95%;
     margin-left: 10px;
@@ -153,7 +153,7 @@ h3 {
     outline: none;
     background: none;
 
-    font-size: 10pt;
+    font-size: 14pt;
     font-style: italic;
     color: var(--color-primary);
 }
