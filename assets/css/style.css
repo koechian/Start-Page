@@ -157,3 +157,7 @@ h3 {
     font-style: italic;
     color: var(--color-primary);
 }
+@viewport{
+    zoom:1.0;
+    width: extend-to-zoom;
+}
